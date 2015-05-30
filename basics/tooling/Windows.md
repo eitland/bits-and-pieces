@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: Basic tooling on Windows 
 ---
 # Basic software I use on Windows machines
 
