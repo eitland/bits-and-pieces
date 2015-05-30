@@ -1,5 +1,3 @@
----
----
 # Getting information from Zendesk:
 
 ## Basic curl command
