@@ -1,8 +1,7 @@
 # Getting information from Zendesk:
 
 ## Basic curl command
-**λ curl https://somecompany1432285103.zendesk.com/api/v2/tickets.json  -v -u my.address@somecomapany.com/token:890fewfxxhehehe788d8ebxRRnot000yet0smile**
-```
+```λ curl https://somecompany1432285103.zendesk.com/api/v2/tickets.json  -v -u my.address@somecomapany.com/token:890fewfxxhehehe788d8ebxRRnot000yet0smile
 *   Trying 192.161.147.1...
 ...
 * TLSv1.0, TLS handshake, CERT (11):
@@ -13,7 +12,7 @@
 ```
 
 Personlly I often prefer redirecting the output to a file: 
-**λ curl https://somecompany1432285103.zendesk.com/api/v2/tickets.json  -v -u my.address@somecomapany.com/token:890fewfxxhehehe788d8ebxRRnot000yet0smile >> some_tickets.json**
+```λ curl https://somecompany1432285103.zendesk.com/api/v2/tickets.json  -v -u my.address@somecomapany.com/token:890fewfxxhehehe788d8ebxRRnot000yet0smile >> some_tickets.json```
 
 
 # JSON to CSV Conversion using jq
