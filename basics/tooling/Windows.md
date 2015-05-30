@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Basic tooling on Windows 
 ---
 # Basic software I use on Windows machines
